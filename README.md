@@ -1,7 +1,7 @@
 # Desafio de Projeto Git/Github da DIO
 ## Repositório pertinente ao desafio de projeto do Bootcamp Impulso Javascript.
 
-O Git é um sistema de versionamento de código, foi criado a partir do desejo de uma plataforma mais fácil e intuitiva, visto que as ferramentas dispóníveis na época eram complicadas de se trabalharem. Proposta pelo criador do Kernel __Linux__ (*Linus Torvalds*), este software foi criado para manter registro de históricos de alterações de arquivos.
+O Git é um sistema de versionamento de código distribuído, foi criado a partir do desejo de uma plataforma mais fácil e intuitiva, visto que as ferramentas dispóníveis na época eram complicadas de se trabalharem. Proposta pelo criador do Kernel __Linux__ (*Linus Torvalds*), este software foi criado para manter registro de históricos de alterações de arquivos.
 
 ## Comandos básicos
 
